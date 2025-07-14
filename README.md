@@ -60,4 +60,13 @@ Em seguida, a função showAll é chamada com este novo array de produtos vegano
 <figuri/>
 
 ### Este projeto demonstra bem o uso prático dos métodos forEach, map, reduce e filter para manipular e apresentar dados em uma aplicação web.<br>
-Quer ver na Prática Clica aqui no Link<a href="https://projetodevburguers.netlify.app/"/> Ir para o Site </h3>
+Quer ver na Prática Clica aqui no Link<a href="https://projetodevburguers.netlify.app/"/> Ir para o Site </h3><br>
+<br>
+
+Contato 📬
+Caso tenha dúvidas ou feedbacks, entre em contato comigo:
+
+E-mail: marcelonaja41@gmail.com ✉️
+LinkedIn: www.linkedin.com/in/
+marcelo-dos-santos-moreira 🔗
+Telefone: +551299255-2089 📞
