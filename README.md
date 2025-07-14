@@ -21,7 +21,7 @@ li para cada produto<br>
 
 <figuri>
 <img src="https://github.com/MarceloNaja79/Projeto-DevBurguers/blob/c6dbfd215ba1f2f98350593397b2d8b737d86f95/Dev%20Burguer%20For%20Each.PNG"/>
-<figcaption>Foto For Each</figcaption>
+<figcaption>Foto Botão Mostrar Tudo</figcaption>
 <figuri/>
 
 ## Botão "Mapear / Map" (.map-all)<br>
@@ -33,10 +33,25 @@ Em seguida, a função showAll é chamada com este novo array de produtos com pr
 
 <figuri>
 <img src="https://github.com/MarceloNaja79/Projeto-DevBurguers/blob/287c799d63ecc003692b44610bbc592bd64d7ac7/Dev%20Burguer%20Map.PNG"/>
-<figcaption>Foto Botão Map</figcaption>
+<figcaption>Foto Botão Mapear</figcaption>
 <figuri/>
 
 
-### Por fim, implementei a lógica de validação com JavaScript. Isso me permitiu verificar se os campos estavam preenchidos corretamente antes de enviar os dados.
-Essa experiência me ajudou a entender melhor como as tecnologias se integram e a importância de uma boa usabilidade em aplicações web.
-<h3 italic>Fique avontade para visitar o Projeto. <a href="https://tela-de-login-marcelonaja.netlify.app/" /> Ir para o Site </h3>
+## Botão "Somar Tudo / Reduce"<br>
+### Função: sumAllItems()<br>
+### O que faz:<br>
+Este botão, quando clicado, aciona a função sumAllItems. Ela utiliza o método reduce para somar o preço de todos os produtos no array menuOptions, resultando em um valor total. Este valor total é então exibido diretamente na lista ul.
+
+<figuri>
+<img src=""/>
+<figcaption>Foto Botão Mapear</figcaption>
+<figuri/>
+
+
+
+
+
+
+
+
+<a href="https://tela-de-login-marcelonaja.netlify.app/" /> Ir para o Site </h3>
