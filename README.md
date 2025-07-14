@@ -63,7 +63,7 @@ Em seguida, a função showAll é chamada com este novo array de produtos vegano
 Quer ver na Prática Clica aqui no Link<a href="https://projetodevburguers.netlify.app/"/> Ir para o Site </h3><br>
 <br>
 
-Contato 📬
+#Contato: 📬<br>
 Caso tenha dúvidas ou feedbacks, entre em contato comigo:<br>
 
 E-mail: marcelonaja41@gmail.com ✉️<br>
