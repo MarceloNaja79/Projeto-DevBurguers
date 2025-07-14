@@ -64,9 +64,9 @@ Quer ver na Prática Clica aqui no Link<a href="https://projetodevburguers.netli
 <br>
 
 Contato 📬
-Caso tenha dúvidas ou feedbacks, entre em contato comigo:
+Caso tenha dúvidas ou feedbacks, entre em contato comigo:<br>
 
-E-mail: marcelonaja41@gmail.com ✉️
-LinkedIn: www.linkedin.com/in/
-marcelo-dos-santos-moreira 🔗
+E-mail: marcelonaja41@gmail.com ✉️<br>
+LinkedIn: www.linkedin.com/in/<br>
+marcelo-dos-santos-moreira 🔗<br>
 Telefone: +551299255-2089 📞
