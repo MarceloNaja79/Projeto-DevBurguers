@@ -32,7 +32,7 @@ Para cada produto, ele calcula um novo preço com 10% de desconto.<br>
 Em seguida, a função showAll é chamada com este novo array de produtos com preços ajustados, exibindo-os na tela.
 
 <figuri>
-<img src="https://github.com/MarceloNaja79/Projeto-DevBurguers/blob/c6dbfd215ba1f2f98350593397b2d8b737d86f95/Dev%20Burguer%20For%20Each.PNG"/>
+<img src="https://github.com/MarceloNaja79/Projeto-DevBurguers/blob/287c799d63ecc003692b44610bbc592bd64d7ac7/Dev%20Burguer%20Map.PNG"/>
 <figcaption>Foto Botão Map</figcaption>
 <figuri/>
 
