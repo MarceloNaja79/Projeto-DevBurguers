@@ -12,7 +12,8 @@ que manipula e exibe os dados de diferentes maneiras:<br>
 
 ## Botão "Mostrar Tudo / For Each" (.show-all)<br>
 Função: showAll(menuOptions)<br>
-O que faz: Este botão, ao ser clicado, chama a função showAll passando o array menuOptions completo. 
+## O que faz:<br>
+Este botão, ao ser clicado, chama a função showAll passando o array menuOptions completo. 
 Ele utiliza o método forEach para iterar sobre cada item do array menuOptions e cria dinamicamente um 
 li para cada produto<br>
 (com imagem, nome e preço), exibindo todos os produtos na lista ul.<br>
