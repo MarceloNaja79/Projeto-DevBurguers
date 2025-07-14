@@ -14,7 +14,7 @@ que manipula e exibe os dados de diferentes maneiras:<br>
 Função: showAll(menuOptions)
 O que faz: Este botão, ao ser clicado, chama a função showAll passando o array menuOptions completo. 
 Ele utiliza o método forEach para iterar sobre cada item do array menuOptions e cria dinamicamente um 
-<li> para cada produto (com imagem, nome e preço), exibindo todos os produtos na lista <ul>.<br>
+li para cada produto (com imagem, nome e preço), exibindo todos os produtos na lista ul.<br>
 
 <figuri>
 <img src="https://github.com/MarceloNaja79/Projeto-DevBurguers/blob/c6dbfd215ba1f2f98350593397b2d8b737d86f95/Dev%20Burguer%20For%20Each.PNG"/>
