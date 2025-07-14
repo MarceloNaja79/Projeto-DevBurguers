@@ -7,7 +7,7 @@ Projeto é composto por três arquivos principais:
 • scripts.js: Contém a lógica JavaScript para interagir com a página, manipular os produtos e responder aos cliques dos botões.
 
 <figuri>
-<img src="[print pag login.PNG"](https://github.com/MarceloNaja79/Projeto-DevBurguers/blob/c6dbfd215ba1f2f98350593397b2d8b737d86f95/Dev%20Burguer%20For%20Each.PNG)/>
+<img src="https://github.com/MarceloNaja79/Projeto-DevBurguers/blob/c6dbfd215ba1f2f98350593397b2d8b737d86f95/Dev%20Burguer%20For%20Each.PNG"/>
 <figcaption>Foto Botão For Each</figcaption>
 <figuri/>
 
