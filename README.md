@@ -63,5 +63,4 @@ Em seguida, a função showAll é chamada com este novo array de produtos vegano
 
 
 
-
 <a href="https://tela-de-login-marcelonaja.netlify.app/" /> Ir para o Site </h3>
