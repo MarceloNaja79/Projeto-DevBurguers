@@ -59,5 +59,5 @@ Em seguida, a função showAll é chamada com este novo array de produtos vegano
 <figcaption>Foto Botão Filtrar</figcaption>
 <figuri/>
 
-### Este projeto demonstra bem o uso prático dos métodos forEach, map, reduce e filter para manipular e apresentar dados em uma aplicação web. 
-<a href="https://tela-de-login-marcelonaja.netlify.app/" /> Ir para o Site </h3>
+### Este projeto demonstra bem o uso prático dos métodos forEach, map, reduce e filter para manipular e apresentar dados em uma aplicação web.<br>
+Quer ver na Prática Clica aqui no Link<a href="https://tela-de-login-marcelonaja.netlify.app/" /> Ir para o Site </h3>
