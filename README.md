@@ -43,11 +43,21 @@ Em seguida, a função showAll é chamada com este novo array de produtos com pr
 Este botão, quando clicado, aciona a função sumAllItems. Ela utiliza o método reduce para somar o preço de todos os produtos no array menuOptions, resultando em um valor total. Este valor total é então exibido diretamente na lista ul.
 
 <figuri>
-<img src=""/>
-<figcaption>Foto Botão Mapear</figcaption>
+<img src="https://github.com/MarceloNaja79/Projeto-DevBurguers/blob/567bc41211096bdc42fd936dccc5d4afde6a970e/Dev%20Burguer%20Reduce.PNG"/>
+<figcaption>Foto Botão Somar Tudo</figcaption>
 <figuri/>
 
+## Botão "Filtrar / Filter" (.vegan-all)<br>
+### Função: veganItems()<br>
+### O que faz:<br>
+Ao ser clicado, este botão chama a função veganItems. Dentro dela,<br> 
+o método filter é usado para criar um novo array contendo apenas os produtos que possuem a propriedade vegan definida como true.<br>
+Em seguida, a função showAll é chamada com este novo array de produtos veganos, exibindo apenas eles na tela.<br>
 
+<figuri>
+<img src=""/>
+<figcaption>Foto Botão Filtrar</figcaption>
+<figuri/>
 
 
 
