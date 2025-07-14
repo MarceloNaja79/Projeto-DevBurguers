@@ -4,11 +4,21 @@ Projeto é composto por três arquivos principais:
 • index.html: Define a estrutura e o conteúdo da página web.
 • styles.css: Contém as regras de estilo para a aparência visual da página.
 • products.js: Armazena os dados dos produtos (hambúrgueres) em um array JavaScript.
-• scripts.js: Contém a lógica JavaScript para interagir com a página, manipular os produtos e responder aos cliques dos botões.
+• scripts.js: Contém a lógica JavaScript para interagir com a página, manipular os produtos e responder aos cliques dos botões.<br>
+
+# Função de Cada Botão:<br>
+### Cada botão no seu index.html está associado a uma função JavaScript específica no scripts.js, 
+que manipula e exibe os dados de diferentes maneiras:<br>
+
+## Botão "Mostrar Tudo / For Each" (.show-all)<br>
+## Função: ## showAll(menuOptions)
+## O que faz:## Este botão, ao ser clicado, chama a função showAll passando o array menuOptions completo. 
+Ele utiliza o método forEach para iterar sobre cada item do array menuOptions e cria dinamicamente um 
+<li> para cada produto (com imagem, nome e preço), exibindo todos os produtos na lista <ul>.
 
 <figuri>
 <img src="https://github.com/MarceloNaja79/Projeto-DevBurguers/blob/c6dbfd215ba1f2f98350593397b2d8b737d86f95/Dev%20Burguer%20For%20Each.PNG"/>
-<figcaption>Foto Botão For Each</figcaption>
+<figcaption>Foto Dev Burguers</figcaption>
 <figuri/>
 
 ### Recentemente, tive a oportunidade de desenvolver uma página de login utilizando HTML, CSS e JavaScript. 
