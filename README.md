@@ -11,8 +11,8 @@ Projeto é composto por três arquivos principais:
 que manipula e exibe os dados de diferentes maneiras:<br>
 
 ## Botão "Mostrar Tudo / For Each" (.show-all)<br>
-## Função: ## showAll(menuOptions)
-## O que faz:## Este botão, ao ser clicado, chama a função showAll passando o array menuOptions completo. 
+Função: showAll(menuOptions)
+O que faz: Este botão, ao ser clicado, chama a função showAll passando o array menuOptions completo. 
 Ele utiliza o método forEach para iterar sobre cada item do array menuOptions e cria dinamicamente um 
 <li> para cada produto (com imagem, nome e preço), exibindo todos os produtos na lista <ul>.
 
