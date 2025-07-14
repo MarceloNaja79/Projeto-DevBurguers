@@ -55,12 +55,9 @@ o método filter é usado para criar um novo array contendo apenas os produtos q
 Em seguida, a função showAll é chamada com este novo array de produtos veganos, exibindo apenas eles na tela.<br>
 
 <figuri>
-<img src=""/>
+<img src="https://github.com/MarceloNaja79/Projeto-DevBurguers/blob/c01057c406052d17bc4fdcf786634813511b61c2/Dev%20Burguer%20Filter.PNG"/>
 <figcaption>Foto Botão Filtrar</figcaption>
 <figuri/>
 
-
-
-
-
+### Este projeto demonstra bem o uso prático dos métodos forEach, map, reduce e filter para manipular e apresentar dados em uma aplicação web. 
 <a href="https://tela-de-login-marcelonaja.netlify.app/" /> Ir para o Site </h3>
